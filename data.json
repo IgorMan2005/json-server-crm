@@ -1,0 +1,31 @@
+{    
+    "students": [
+        {
+            "id": 1,
+            "date": "04.12.2024",
+            "product": "Курс по верстке",
+            "name": "Петр Сергеевич",
+            "email": "petr@inbox.ru",
+            "phone": "+7 (909) 77-55-777",
+            "status": "new"
+        },
+        {
+            "id": 2,
+            "date": "10.01.2025",
+            "product": "Курс по JavaScript",
+            "name": "Николай Владимирович",
+            "email": "nick@inbox.ru",
+            "phone": "+7 (999) 77-55-778",
+            "status": "new"
+        },
+        {
+            "id": 3,
+            "date": "03.02.2025",
+            "product": "Курс по PHP",
+            "name": "Ангелина Степановна",
+            "email": "angel@inbox.ru",
+            "phone": "+7 (909) 77-55-776",
+            "status": "new"
+        }
+    ]
+}
