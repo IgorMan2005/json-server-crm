@@ -3,28 +3,46 @@
         {
             "id": 1,
             "date": "04.12.2024",
-            "product": "Курс по верстке",
+            "product": "course-html",
             "name": "Петр Сергеевич",
             "email": "petr@inbox.ru",
             "phone": "+7 (909) 77-55-777",
-            "status": "new"
+            "status": "complete"
         },
         {
             "id": 2,
             "date": "10.01.2025",
-            "product": "Курс по JavaScript",
+            "product": "course-js",
             "name": "Николай Владимирович",
             "email": "nick@inbox.ru",
             "phone": "+7 (999) 77-55-778",
-            "status": "new"
+            "status": "inwork"
         },
         {
             "id": 3,
             "date": "03.02.2025",
-            "product": "Курс по PHP",
+            "product": "course-php",
             "name": "Ангелина Степановна",
             "email": "angel@inbox.ru",
             "phone": "+7 (909) 77-55-776",
+            "status": "new"
+        },
+        {
+            "id": 4,
+            "date": "15.02.2025",
+            "product": "course-wordpress",
+            "name": "Алексей Владимирович",
+            "email": "lexa@inbox.ru",
+            "phone": "+7 (909) 77-55-779",
+            "status": "new"
+        },
+        {
+            "id": 5,
+            "date": "25.02.2025",
+            "product": "course-vue",
+            "name": "Алевтина Григорьевна",
+            "email": "alevtina@inbox.ru",
+            "phone": "+7 (909) 77-55-780",
             "status": "new"
         }
     ]
